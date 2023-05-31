@@ -1,0 +1,29 @@
+button{
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   background-color:chartreuse;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#colord{
+    position: absolute;
+    top: 44%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(19, 18, 18);
+}
+#hist{
+    width: 170px;
+    height: 585px;
+    overflow: hidden;
+    padding: 5px;
+}
+td{
+    font-size: 12px;
+    border: 1px solid black;
+    padding: 5px;
+}
